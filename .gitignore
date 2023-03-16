@@ -1,0 +1,8 @@
+.idea
+__pycache__
+venv
+config.py
+dockerfile
+login.py
+run.py
+fetch_data.py
